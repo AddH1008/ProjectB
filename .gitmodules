@@ -1,0 +1,3 @@
+[submodule "LibProject"]
+	path = LibProject
+	url = git@github.com:AddH1008/LibProject.git

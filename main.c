@@ -3,4 +3,7 @@
 
 #include "LibProject/testLib.h"
 
-test_struct b  = {0};
+s_Notif_Queue_Message_t b  = {0};
+
+b.eMessageType1 = 1;
+
